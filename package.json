@@ -2,12 +2,12 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "node.js",
-  "main": "index.js",
+  "main": "web.js",
   "author": "geghh",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node index.js"
+    "start": "node web.js"
   },
   "dependencies": {
     "axios": "^1.6.0",
